@@ -1,5 +1,3 @@
-# AI-Resume-Screening
-
 # 🤖 AI Resume Scanner by Het Patel
 
 **AI-powered Talent Intelligence Engine for Automating Resume Evaluation & Candidate Shortlisting**
