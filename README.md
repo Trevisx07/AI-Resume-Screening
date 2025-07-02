@@ -106,7 +106,7 @@
 📱 **Phone:** +91 9879540166
 
 > Built by **Het Patel** 💙
-> Product ownership and architecture by [@sachin.t](mailto:hetkumarpatel05@gmail.com)
+> Product ownership and architecture by [@het.p](mailto:hetkumarpatel05@gmail.com)
 
 ---
 
