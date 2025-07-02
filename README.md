@@ -276,16 +276,6 @@ Performance Metrics:
 ---
 
 
-## 🚀 Get Started Today
-
-<div align="center">
-
-### Ready to Transform Your Recruitment?
-
-**[📊 Book Your Demo](mailto:hetkumarpatel07@gmail.com?subject=Book%20Demo%20-%20AI%20Resume%20Scanner&body=Hi%20Het%2C%0A%0AI%27d%20like%20to%20schedule%20a%20demo%20for%20the%20AI%20Resume%20Scanner%20product.%20Please%20reach%20out%20to%20me.%0A%0AThanks!)** | **[💬 Contact Sales](mailto:hetkumarpatel07@gmail.com)** | **[📞 Call Now](tel:+919879540166)**
-
----
-
 ### 📞 **Contact Information**
 
 📧 **Email**: [hetkumarpatel07@gmail.com](mailto:hetkumarpatel07@gmail.com)  
@@ -300,7 +290,7 @@ Performance Metrics:
 
 <div align="center">
 
-### **Het Patel** - AI Product Architect
+### **Het Patel** - AI/ML Enthusiast
 
 *"Designed not just to scan resumes — but to intelligently understand talent."*
 
