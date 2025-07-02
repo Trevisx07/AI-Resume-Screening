@@ -67,8 +67,8 @@
 
 ### ✅ Candidate Communication
 
-* **Email:**
-* **SMS:**
+* **Email**
+* **SMS**
 
 ### ✅ Smart Filters & Pagination
 
