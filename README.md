@@ -8,7 +8,7 @@
 
 **AI Resume Scanner** is a fully autonomous, AI-powered recruitment product that leverages AI to screen, score, and shortlist candidates intelligently. Designed to revolutionize talent screening for modern HR teams, it blends structured evaluation, visual analytics, personalized communication, and role-specific intelligence into a unified system.
 
-> 🔐 **Private AI System** | 💼 Proprietary Product | 📞 [Book Demo](+91-9879540166) | ✉️ [mail](hetkumarpatel07@gmail.com)
+> 🔐 **Private AI System** | 💼 Proprietary Product | 📞 [Book Demo](+91-9879540166) | ✉️ [Email](hetkumarpatel07@gmail.com)
 
 ---
 
