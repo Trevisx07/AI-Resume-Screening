@@ -1,4 +1,4 @@
-# 🤖 AI Resume Scanner by Het Patel <a href="mailto:careers@raapidinc.com?subject=Book%20Demo%20-%20AI%20Resume%20Scanner&body=Hi%20Het%2C%0A%0AI%27d%20like%20to%20schedule%20a%20demo%20for%20the%20AI%20Resume%20Scanner%20product.%20Please%20reach%20out%20to%20me.%0A%0AThanks!" target="_blank" style="float: right;">
+# 🤖 AI Resume Scanner by Het Patel <a href="mailto:hetkumarpatel07@gmail.com?subject=Book%20Demo%20-%20AI%20Resume%20Scanner&body=Hi%20Het%2C%0A%0AI%27d%20like%20to%20schedule%20a%20demo%20for%20the%20AI%20Resume%20Scanner%20product.%20Please%20reach%20out%20to%20me.%0A%0AThanks!" target="_blank" style="float: right;">
   <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Book%20Demo-blue?style=for-the-badge&logo=googlecalendar" />
 </a>
 
