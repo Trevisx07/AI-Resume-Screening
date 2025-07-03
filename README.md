@@ -329,6 +329,9 @@ Unauthorized use, reproduction, or redistribution is strictly prohibited.
 
 ---
 
-![Footer](https://img.shields.io/badge/🚀%20The%20Future%20of%20Recruitment%20is%20Here-Get%20Started%20Today-6366f1?style=for-the-badge)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Transform%20Your%20Hiring%20Today!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
+</div>
+
 
 </div>
