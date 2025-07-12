@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![AI Resume Scanner](https://img.shields.io/badge/🤖%20AI%20Resume%20Scanner-v2.0-6366f1?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Lucy - AI Resume Scanner](https://img.shields.io/badge/🤖%20AI%20Resume%20Scanner-v2.0-6366f1?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Status](https://img.shields.io/badge/STATUS-Production%20Ready-00d084?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![License](https://img.shields.io/badge/LICENSE-Proprietary-ff6b6b?style=for-the-badge&logo=shield&logoColor=white)
 
