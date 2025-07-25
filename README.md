@@ -1,4 +1,4 @@
-<img width="1775" height="557" alt="image" src="https://github.com/user-attachments/assets/8ea97d33-9482-4766-a0b2-ae62e165078c" /><div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=🤖+AI+Resume+Screener" alt="CV Scan Header" />
 </div>
 
@@ -183,6 +183,8 @@ graph TD
 
 ---
 
+<img width="1775" height="557" alt="image" src="https://github.com/user-attachments/assets/35f66a2b-1b17-4b66-93e2-6e2681fd1a02" />
+
 ## 🔄 The Magic Workflow
 
 <div align="center">
@@ -256,6 +258,7 @@ Extensible architecture with APIs for seamless integration with existing HR syst
 ![API](https://img.shields.io/badge/API-RESTful%20Architecture-f39c12?style=flat-square&logo=fastapi)
 
 </div>
+<img width="1758" height="382" alt="image" src="https://github.com/user-attachments/assets/fb7ba6eb-e6e6-4c02-999e-462e3e1c7edf" />
 
 ```yaml
 Performance Metrics:
