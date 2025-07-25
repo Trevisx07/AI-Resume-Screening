@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1775" height="557" alt="image" src="https://github.com/user-attachments/assets/8ea97d33-9482-4766-a0b2-ae62e165078c" /><div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=🤖+AI+Resume+Screener" alt="CV Scan Header" />
 </div>
 
@@ -16,6 +16,7 @@
 *"The future of recruitment is here. No more manual resume screening, no more bias, no more missed talent."*
 
 </div>
+<img width="1842" height="837" alt="image" src="https://github.com/user-attachments/assets/71fb0a31-4edd-43f6-a0cb-4a15e08f1f65" />
 
 ## 🌟 What Makes This Revolutionary?
 <div align="center">
@@ -142,6 +143,7 @@ graph TD
 ![Real-time Analytics](https://img.shields.io/badge/📈%20Real--time%20Analytics-Performance%20Metrics-06b6d4?style=for-the-badge)
 
 </div>
+<img width="1786" height="846" alt="image" src="https://github.com/user-attachments/assets/c3c36c7b-036b-4c56-a714-afdd38a2c529" />
 
 <table>
 <tr>
@@ -166,6 +168,7 @@ graph TD
 
 </td>
 <td width="33%">
+
 
 #### 🚀 **Automation Excellence**
 - Zero-touch processing
